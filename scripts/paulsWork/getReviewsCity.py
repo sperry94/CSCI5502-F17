@@ -11,7 +11,7 @@ if len(sys.argv) != 2:
 
 ### Connect to the database and get all the IDs
 ydb       = YelpDB.YelpDB()
-reviewIDs = ydb.getReviewIDs()
+reviewIDs = ydb.getReviewIDCity(sys.argv[1])
 
 ### This will contain a hash of the review ids selected
 selected = {}
@@ -31,7 +31,7 @@ for id in reviewIDs:
     ### If the review has not been selected and it is in the lis
     ### of acceptable categories, keep it.
     try:
-        if id not in selected and category[0] == 'Restaurants' and city == sys.argv[1]:
+        if id not in selected and category[0] == 'Restaurants':
             selected[id] = 1 
             if len(selected)>=10000:
                break

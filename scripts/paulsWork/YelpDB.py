@@ -11,6 +11,18 @@ class YelpDB:
         rows = self.cursor.fetchall()
         return rows
  
+    def getReviewIDs(self, business_id):
+        sql = ("SELECT id FROM review WHERE business_id=%s")
+        self.cursor.execute (sql, [business_id])
+        rows = self.cursor.fetchall()
+        return rows
+ 
+    def getReviewIDCity(self, city):
+        sql = ("SELECT review.id FROM review, business WHERE review.business_id=business.id AND business.city=%s")
+        self.cursor.execute (sql, [city])
+        rows = self.cursor.fetchall()
+        return rows
+ 
     def getReview(self, id):
         sql = ("SELECT stars, date, text, business_id, user_id FROM review WHERE id=%s")
         self.cursor.execute (sql, [id])
