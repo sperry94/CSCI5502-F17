@@ -33,8 +33,8 @@ for id in reviewIDs:
     try:
         if id not in selected and category[0] == 'Restaurants':
             selected[id] = 1 
-            if len(selected)>=10000:
-               break
+            #if len(selected)>=10000:
+            #   break
     except:
         continue
 

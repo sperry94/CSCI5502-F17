@@ -21,16 +21,16 @@ class NaiveBayes ():
     #
     def process (self, stars, text, business_id, user_id):
        
-        stopwords = nltk.corpus.stopwords.words("english")
-        np = r"(\w)"
-        
-        processedText = []
-        
+        ### Stake out what is positive and negative
         if stars > 3:
            score = "positive"
         else:
            score = "negative"
 
+        ### Filter out stopwords
+        stopwords = nltk.corpus.stopwords.words("english")
+        np = r"(\w)"
+        
         filteredStopWords = []
         try:
             words = nltk.word_tokenize(text)
@@ -52,13 +52,15 @@ class NaiveBayes ():
             pass
             #print "Review failed to tokenize"
 
-    ### Override loop() too (oh well, it got me a long way down the road :) )
+    ### Loop through the reviews in reviewList pulling out the relevant data
+    ### from the SQL database
     #
     def loop (self, reviewList ):
         for nextID in reviewList:
             (stars, date, text, business_id, user_id) = self.ydb.getReview (nextID)
             self.process (stars, text, business_id, user_id)
 
+    ### Build the list of review IDs from the passed file
     def readReviewIDs (self):
         i = 0
         for nextID in self.file:
@@ -66,6 +68,11 @@ class NaiveBayes ():
             self.reviewIDs.append(nextID)
             i = i + 1
 
+    ### I used much of the techniques for building the featureset from:
+    ###    https://github.com/Katy-katy 
+    ### Ekaterina Tcareva did review processing using Python and the nltk 
+    ### and I used her scheme largely for building unigram and bigram featuresets.
+    # 
     def buildFeatures (self, reviewText, reviewWords):
 
         featureVector = {}
@@ -110,8 +117,8 @@ for (text, filteredWords, score) in processor.processedText:
     testFeatureSet.append ((featureVector, score))
 
 classifier = nltk.NaiveBayesClassifier.train (trainingFeatureSet)
-accuracy = nltk.classify.accuracy(classifier, testFeatureSet)
-bestFeatures = classifier.most_informative_features(500)
 
-print "\nAccuracy of %5.3f\n" % accuracy
+accuracy = nltk.classify.accuracy(classifier, testFeatureSet)
+print "\nNaive Bayesian Classifier Accuracy of %5.3f\n" % accuracy
+
 classifier.show_most_informative_features(100)

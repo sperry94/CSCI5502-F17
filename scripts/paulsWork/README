@@ -14,8 +14,6 @@ The following are the scripts and programs:
 
    binBusinesses.py - This program derived from Process.py and was used to count the number of occurances of each business in the list of review IDs.
 
-   decisionTreeClassifier.py - Never got this working.  It is our belief that this algorithm may not scale well for this sort of classification. When running it on lists of city review IDs it sat and spun for 6 hours wide open and never finished.
-
    getAllRestaurantReviews.py - This processes all the reviews in the database and outputs only those of the category 'Restaurants'.
 
    getBusinessInfo.py - This takes a list of business IDs and associated frequency (generated with binBusinesses.py) and outputs the Name, City, and State also.
