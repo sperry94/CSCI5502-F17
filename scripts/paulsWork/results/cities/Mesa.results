@@ -1,0 +1,208 @@
+
+Naive Bayesian Classifier Accuracy of 0.742
+
+Most Informative Features
+     ('poor', 'service') = 1              negati : positi =     53.1 : 1.0
+ ('horrible', 'service') = 1              negati : positi =     51.7 : 1.0
+         ("n't", 'back') = 1              negati : positi =     48.3 : 1.0
+     ('never', 'return') = 1              negati : positi =     44.6 : 1.0
+    ('mediocre', 'best') = 1              negati : positi =     41.8 : 1.0
+    ('food', 'mediocre') = 1              negati : positi =     40.4 : 1.0
+        ('two', 'stars') = 1              negati : positi =     40.4 : 1.0
+ ('service', 'terrible') = 1              negati : positi =     37.6 : 1.0
+        ("n't", 'waste') = 1              negati : positi =     34.7 : 1.0
+     ('new', 'favorite') = 1              positi : negati =     34.3 : 1.0
+                 refused = 1              negati : positi =     33.3 : 1.0
+     ('took', 'forever') = 1              negati : positi =     32.7 : 1.0
+                   worst = 1              negati : positi =     32.5 : 1.0
+      ('eye', 'contact') = 1              negati : positi =     31.9 : 1.0
+      ('wanted', 'like') = 1              negati : positi =     30.5 : 1.0
+                 yelling = 1              negati : positi =     29.0 : 1.0
+                   phone = 2              negati : positi =     27.6 : 1.0
+     ('another', 'shot') = 1              negati : positi =     26.2 : 1.0
+        ('even', 'busy') = 1              negati : positi =     26.2 : 1.0
+       ("n't", 'coming') = 1              negati : positi =     26.2 : 1.0
+('really', 'disappointed') = 1              negati : positi =     26.2 : 1.0
+      ('never', 'going') = 1              negati : positi =     26.2 : 1.0
+                horrible = 1              negati : positi =     25.4 : 1.0
+        ('food', 'okay') = 1              negati : positi =     25.2 : 1.0
+       ('waste', 'time') = 1              negati : positi =     25.1 : 1.0
+                   worst = 2              negati : positi =     24.8 : 1.0
+                    took = 3              negati : positi =     24.8 : 1.0
+    ('lacked', 'flavor') = 1              negati : positi =     23.4 : 1.0
+   ('chicken', 'tasted') = 1              negati : positi =     22.0 : 1.0
+               bothering = 1              negati : positi =     22.0 : 1.0
+        ('said', 'well') = 1              negati : positi =     22.0 : 1.0
+  ('minutes', 'finally') = 1              negati : positi =     22.0 : 1.0
+  ('minutes', 'waiting') = 1              negati : positi =     22.0 : 1.0
+                repeated = 1              negati : positi =     22.0 : 1.0
+       ('time', 'money') = 1              negati : positi =     22.0 : 1.0
+          ('2', 'stars') = 1              negati : positi =     22.0 : 1.0
+    ('poor', 'customer') = 1              negati : positi =     22.0 : 1.0
+                 minutes = 4              negati : positi =     22.0 : 1.0
+    ('place', 'awesome') = 1              positi : negati =     21.2 : 1.0
+                   stale = 1              negati : positi =     20.7 : 1.0
+         ('give', 'one') = 1              negati : positi =     20.5 : 1.0
+('extremely', 'disappointed') = 1              negati : positi =     20.5 : 1.0
+   ('said', 'something') = 1              negati : positi =     20.5 : 1.0
+    ('horrible', 'food') = 1              negati : positi =     20.5 : 1.0
+              horrendous = 1              negati : positi =     20.5 : 1.0
+    ('mediocre', 'food') = 1              negati : positi =     20.5 : 1.0
+   ('way', 'overpriced') = 1              negati : positi =     20.5 : 1.0
+        ('hour', 'food') = 1              negati : positi =     20.5 : 1.0
+                pathetic = 1              negati : positi =     20.5 : 1.0
+                 minutes = 3              negati : positi =     20.3 : 1.0
+              disgusting = 1              negati : positi =     20.1 : 1.0
+       ('food', 'bland') = 1              negati : positi =     20.0 : 1.0
+        ('took', 'hour') = 1              negati : positi =     20.0 : 1.0
+               customers = 2              negati : positi =     20.0 : 1.0
+     ('food', 'awesome') = 1              positi : negati =     19.6 : 1.0
+          ('wait', 'go') = 1              positi : negati =     19.5 : 1.0
+              overpriced = 1              negati : positi =     19.3 : 1.0
+                mediocre = 1              negati : positi =     19.3 : 1.0
+               disgusted = 1              negati : positi =     19.1 : 1.0
+        ('wait', 'hour') = 1              negati : positi =     19.1 : 1.0
+       ('never', 'came') = 1              negati : positi =     19.1 : 1.0
+       ('fell', 'apart') = 1              negati : positi =     19.1 : 1.0
+      ('like', 'frozen') = 1              negati : positi =     19.1 : 1.0
+             unimpressed = 1              negati : positi =     19.1 : 1.0
+        ('half', 'hour') = 1              negati : positi =     19.1 : 1.0
+   ('waited', 'another') = 1              negati : positi =     19.1 : 1.0
+      ('even', 'bother') = 1              negati : positi =     19.1 : 1.0
+                  window = 2              negati : positi =     19.1 : 1.0
+                   sonic = 2              negati : positi =     19.1 : 1.0
+     ('placed', 'order') = 1              negati : positi =     18.7 : 1.0
+              complained = 1              negati : positi =     18.5 : 1.0
+ ('service', 'horrible') = 1              negati : positi =     18.5 : 1.0
+      ('great', 'price') = 1              positi : negati =     18.3 : 1.0
+       ('charged', 'us') = 1              negati : positi =     17.7 : 1.0
+        ('guess', "n't") = 1              negati : positi =     17.7 : 1.0
+       ('order', 'took') = 1              negati : positi =     17.7 : 1.0
+                   reply = 1              negati : positi =     17.7 : 1.0
+  ("'m", 'disappointed') = 1              negati : positi =     17.7 : 1.0
+     ('minutes', 'late') = 1              negati : positi =     17.7 : 1.0
+      ('place', 'empty') = 1              negati : positi =     17.7 : 1.0
+      ('finally', 'get') = 1              negati : positi =     17.7 : 1.0
+               overheard = 1              negati : positi =     17.7 : 1.0
+        ('came', 'take') = 1              negati : positi =     17.7 : 1.0
+          ('took', '20') = 1              negati : positi =     17.7 : 1.0
+      ('take', 'orders') = 1              negati : positi =     17.7 : 1.0
+         ('bad', 'good') = 1              negati : positi =     17.7 : 1.0
+           ('10', 'min') = 1              negati : positi =     17.7 : 1.0
+                    mins = 2              negati : positi =     17.7 : 1.0
+                 manager = 3              negati : positi =     17.7 : 1.0
+    ('another', 'table') = 1              negati : positi =     17.4 : 1.0
+                   asked = 3              negati : positi =     17.3 : 1.0
+                   sonic = 1              negati : positi =     17.2 : 1.0
+              flavorless = 1              negati : positi =     17.2 : 1.0
+                  waited = 2              negati : positi =     16.8 : 1.0
+      ('service', 'bad') = 1              negati : positi =     16.7 : 1.0
+        ('food', 'cold') = 1              negati : positi =     16.7 : 1.0
+       ('well', 'worth') = 1              positi : negati =     16.7 : 1.0
+       ('wrong', 'food') = 1              negati : positi =     16.6 : 1.0
+     ('well', 'ordered') = 1              negati : positi =     16.3 : 1.0
+        ('far', 'worst') = 1              negati : positi =     16.3 : 1.0
+
+Accuracy of 0.720
+
+Most Informative Features
+                   worst = 1              negati : positi =     54.1 : 1.0
+        ("n't", 'going') = 1              negati : positi =     39.7 : 1.0
+         ("n't", 'back') = 1              negati : positi =     37.5 : 1.0
+        ('food', 'cold') = 1              negati : positi =     27.6 : 1.0
+                 waiting = 2              negati : positi =     27.6 : 1.0
+                horrible = 1              negati : positi =     25.0 : 1.0
+                     gem = 1              positi : negati =     24.9 : 1.0
+     ('service', 'ever') = 1              negati : positi =     23.5 : 1.0
+                   worse = 1              negati : positi =     23.5 : 1.0
+                   phone = 2              negati : positi =     22.2 : 1.0
+   ('food', 'excellent') = 1              positi : negati =     22.0 : 1.0
+                  ruined = 1              negati : positi =     20.9 : 1.0
+       ('never', 'come') = 1              negati : positi =     20.9 : 1.0
+                  sucked = 1              negati : positi =     20.9 : 1.0
+     ('give', 'another') = 1              negati : positi =     20.6 : 1.0
+          ('2', 'stars') = 1              negati : positi =     19.8 : 1.0
+     ('placed', 'order') = 1              negati : positi =     19.8 : 1.0
+                   awful = 1              negati : positi =     19.7 : 1.0
+          ('wait', 'go') = 1              positi : negati =     19.7 : 1.0
+                    rude = 1              negati : positi =     19.6 : 1.0
+       ('even', 'worse') = 1              negati : positi =     19.5 : 1.0
+        ("n't", 'waste') = 1              negati : positi =     19.5 : 1.0
+     ('service', 'fine') = 1              negati : positi =     19.5 : 1.0
+      ('never', 'order') = 1              negati : positi =     19.5 : 1.0
+                 ignored = 1              negati : positi =     19.0 : 1.0
+      ('probably', 'wo') = 1              negati : positi =     19.0 : 1.0
+                   burnt = 1              negati : positi =     18.6 : 1.0
+   ('trifecta', 'sauce') = 1              positi : negati =     18.3 : 1.0
+       ('high', 'hopes') = 1              negati : positi =     18.2 : 1.0
+                 excuses = 1              negati : positi =     18.2 : 1.0
+                   hopes = 1              negati : positi =     17.4 : 1.0
+('prices', 'reasonable') = 1              positi : negati =     17.0 : 1.0
+     ('another', 'shot') = 1              negati : positi =     16.8 : 1.0
+       ('pretty', 'bad') = 1              negati : positi =     16.8 : 1.0
+    ('takes', 'forever') = 1              negati : positi =     16.8 : 1.0
+  ('minutes', 'someone') = 1              negati : positi =     16.8 : 1.0
+               customers = 2              negati : positi =     16.8 : 1.0
+                  called = 2              negati : positi =     16.5 : 1.0
+     ('poor', 'service') = 1              negati : positi =     15.7 : 1.0
+                confused = 1              negati : positi =     15.7 : 1.0
+                terrible = 1              negati : positi =     15.6 : 1.0
+('really', 'disappointed') = 1              negati : positi =     15.5 : 1.0
+                pathetic = 1              negati : positi =     15.5 : 1.0
+       ('full', 'price') = 1              negati : positi =     15.5 : 1.0
+          ("n't", 'pay') = 1              negati : positi =     15.5 : 1.0
+       ('take', 'drink') = 1              negati : positi =     15.5 : 1.0
+                     ugh = 1              negati : positi =     15.5 : 1.0
+        ('good', 'luck') = 1              negati : positi =     15.5 : 1.0
+                  unable = 1              negati : positi =     15.5 : 1.0
+       ('wrong', 'food') = 1              negati : positi =     15.5 : 1.0
+                  filthy = 1              negati : positi =     15.5 : 1.0
+                     bad = 3              negati : positi =     15.5 : 1.0
+  ('definitely', 'come') = 1              positi : negati =     15.4 : 1.0
+              overpriced = 1              negati : positi =     15.2 : 1.0
+              disgusting = 1              negati : positi =     15.1 : 1.0
+              phenomenal = 1              positi : negati =     15.0 : 1.0
+                     act = 1              negati : positi =     14.9 : 1.0
+                 minutes = 3              negati : positi =     14.9 : 1.0
+   ('somewhere', 'else') = 1              negati : positi =     14.7 : 1.0
+              flavorless = 1              negati : positi =     14.7 : 1.0
+    ('place', 'awesome') = 1              positi : negati =     14.7 : 1.0
+              incredible = 1              positi : negati =     14.4 : 1.0
+  ('however', 'service') = 1              negati : positi =     14.1 : 1.0
+    ('food', 'terrible') = 1              negati : positi =     14.1 : 1.0
+       ('another', '15') = 1              negati : positi =     14.1 : 1.0
+ ('terrible', 'service') = 1              negati : positi =     14.1 : 1.0
+             frustrating = 1              negati : positi =     14.1 : 1.0
+                  poorly = 1              negati : positi =     14.1 : 1.0
+        ('took', 'long') = 1              negati : positi =     14.1 : 1.0
+         ("n't", 'know') = 2              negati : positi =     14.1 : 1.0
+                 tickets = 1              negati : positi =     14.1 : 1.0
+                     pay = 2              negati : positi =     14.1 : 1.0
+                    sour = 2              negati : positi =     14.1 : 1.0
+     ('always', 'fresh') = 1              positi : negati =     14.0 : 1.0
+  ('definitely', 'back') = 1              positi : negati =     13.9 : 1.0
+          ('food', 'ok') = 1              negati : positi =     13.6 : 1.0
+           uncomfortable = 1              negati : positi =     13.6 : 1.0
+               proceeded = 1              negati : positi =     13.6 : 1.0
+    ('place', 'amazing') = 1              positi : negati =     13.4 : 1.0
+               microwave = 1              negati : positi =     13.3 : 1.0
+          ('2', 'hours') = 1              negati : positi =     13.3 : 1.0
+         ('best', 'pho') = 1              positi : negati =     13.0 : 1.0
+    ('fast', 'friendly') = 1              positi : negati =     13.0 : 1.0
+           ('1', 'star') = 1              negati : positi =     13.0 : 1.0
+         ('feel', 'bad') = 1              negati : positi =     12.8 : 1.0
+   ('really', 'excited') = 1              negati : positi =     12.8 : 1.0
+           ('2', 'star') = 1              negati : positi =     12.8 : 1.0
+       ('like', 'every') = 1              negati : positi =     12.8 : 1.0
+         ('time', 'one') = 1              negati : positi =     12.8 : 1.0
+       ('server', "n't") = 1              negati : positi =     12.8 : 1.0
+     ('brought', 'back') = 1              negati : positi =     12.8 : 1.0
+               impatient = 1              negati : positi =     12.8 : 1.0
+       ('even', 'asked') = 1              negati : positi =     12.8 : 1.0
+     ('wanted', 'order') = 1              negati : positi =     12.8 : 1.0
+    ('food', 'mediocre') = 1              negati : positi =     12.8 : 1.0
+      ('price', 'would') = 1              negati : positi =     12.8 : 1.0
+                  cancel = 1              negati : positi =     12.8 : 1.0
+               tasteless = 1              negati : positi =     12.8 : 1.0
+    ('come', 'location') = 1              negati : positi =     12.8 : 1.0
+             disappeared = 1              negati : positi =     12.8 : 1.0

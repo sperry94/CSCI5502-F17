@@ -1,0 +1,104 @@
+
+Naive Bayesian Classifier Accuracy of 0.360
+
+Most Informative Features
+                  lacked = 1              negati : positi =     32.6 : 1.0
+  ('good', 'restaurant') = 1              negati : positi =     27.6 : 1.0
+       ('better', 'bbq') = 1              negati : positi =     19.5 : 1.0
+          ('rudy', "'s") = 1              negati : positi =     17.5 : 1.0
+    ('minutes', 'later') = 1              negati : positi =     17.5 : 1.0
+                  edible = 1              negati : positi =     17.5 : 1.0
+              thankfully = 1              negati : positi =     17.5 : 1.0
+        ('price', 'tag') = 1              negati : positi =     17.5 : 1.0
+                    rudy = 1              negati : positi =     17.5 : 1.0
+         ('ribs', 'way') = 1              negati : positi =     17.5 : 1.0
+      ('another', 'try') = 1              negati : positi =     17.5 : 1.0
+                     imo = 1              negati : positi =     17.5 : 1.0
+                   waste = 1              negati : positi =     17.5 : 1.0
+         ('back', "n't") = 1              negati : positi =     17.5 : 1.0
+                     tag = 1              negati : positi =     17.5 : 1.0
+                    dave = 1              negati : positi =     17.5 : 1.0
+                   maybe = 2              negati : positi =     17.5 : 1.0
+      ('famous', 'dave') = 1              negati : positi =     17.5 : 1.0
+          ('dave', "'s") = 1              negati : positi =     17.5 : 1.0
+                    mess = 1              negati : positi =     16.5 : 1.0
+     ('smoke', 'flavor') = 1              negati : positi =     13.9 : 1.0
+            overwhelming = 1              negati : positi =     13.5 : 1.0
+                    move = 1              negati : positi =     13.5 : 1.0
+                     rub = 1              negati : positi =     13.5 : 1.0
+                 nothing = 2              negati : positi =     13.5 : 1.0
+                     bad = 2              negati : positi =     13.4 : 1.0
+                 minutes = 2              negati : positi =     13.4 : 1.0
+                   bland = 1              negati : positi =     12.5 : 1.0
+     ('manager', 'said') = 1              negati : positi =     12.5 : 1.0
+               tasteless = 1              negati : positi =     12.5 : 1.0
+      ('quick', 'lunch') = 1              negati : positi =     12.5 : 1.0
+    ('price', 'ordered') = 1              negati : positi =     12.5 : 1.0
+             forgettable = 1              negati : positi =     12.5 : 1.0
+       ('could', 'even') = 1              negati : positi =     12.5 : 1.0
+                   guest = 1              negati : positi =     12.5 : 1.0
+    ('visit', 'arizona') = 1              negati : positi =     12.5 : 1.0
+                   awful = 1              negati : positi =     12.5 : 1.0
+   ('really', 'looking') = 1              negati : positi =     12.5 : 1.0
+         ('never', 'go') = 1              negati : positi =     12.5 : 1.0
+            ("'s", 'ok') = 1              negati : positi =     12.5 : 1.0
+        ('place', 'may') = 1              negati : positi =     12.5 : 1.0
+       ('food', 'drink') = 1              negati : positi =     12.5 : 1.0
+      ('liked', 'beans') = 1              negati : positi =     12.5 : 1.0
+                   gross = 1              negati : positi =     12.5 : 1.0
+                 moments = 1              negati : positi =     12.5 : 1.0
+     ('overly', 'sweet') = 1              negati : positi =     12.5 : 1.0
+  ('texas', 'roadhouse') = 1              negati : positi =     12.5 : 1.0
+                    aged = 1              negati : positi =     12.5 : 1.0
+       ('even', 'think') = 1              negati : positi =     12.5 : 1.0
+                  watery = 1              negati : positi =     12.5 : 1.0
+       ('nice', 'smoke') = 1              negati : positi =     12.5 : 1.0
+     ('really', 'sweet') = 1              negati : positi =     12.5 : 1.0
+             embarrassed = 1              negati : positi =     12.5 : 1.0
+     ('brisket', 'deep') = 1              negati : positi =     12.5 : 1.0
+                national = 1              negati : positi =     12.5 : 1.0
+          ('split', '3') = 1              negati : positi =     12.5 : 1.0
+         ('good', 'got') = 1              negati : positi =     12.5 : 1.0
+         ('meal', "'ve") = 1              negati : positi =     12.5 : 1.0
+       ('sauce', 'ribs') = 1              negati : positi =     12.5 : 1.0
+        ('ribs', 'next') = 1              negati : positi =     12.5 : 1.0
+       ('lot', 'better') = 1              negati : positi =     12.5 : 1.0
+         ('one', 'star') = 1              negati : positi =     12.5 : 1.0
+                    cobb = 1              negati : positi =     12.5 : 1.0
+                  bobbyq = 1              negati : positi =     12.5 : 1.0
+      ('flavor', 'ribs') = 1              negati : positi =     12.5 : 1.0
+                 knocked = 1              negati : positi =     12.5 : 1.0
+   ('flavor', 'brisket') = 1              negati : positi =     12.5 : 1.0
+     ('thing', 'really') = 1              negati : positi =     12.5 : 1.0
+          ('ask', 'bbq') = 1              negati : positi =     12.5 : 1.0
+        ('side', 'good') = 1              negati : positi =     12.5 : 1.0
+ ('ambience', 'service') = 1              negati : positi =     12.5 : 1.0
+             ('3', 'us') = 1              negati : positi =     12.5 : 1.0
+                  shabby = 1              negati : positi =     12.5 : 1.0
+                 claimed = 1              negati : positi =     12.5 : 1.0
+                  spices = 1              negati : positi =     12.5 : 1.0
+        ("n't", 'quite') = 1              negati : positi =     12.5 : 1.0
+       ('tasty', 'ribs') = 1              negati : positi =     12.5 : 1.0
+        ('side', 'note') = 1              negati : positi =     12.5 : 1.0
+      ('liked', 'place') = 1              negati : positi =     12.5 : 1.0
+                  stayed = 1              negati : positi =     12.5 : 1.0
+   ('says', 'something') = 1              negati : positi =     12.5 : 1.0
+ ('definitely', 'great') = 1              negati : positi =     12.5 : 1.0
+                  timing = 1              negati : positi =     12.5 : 1.0
+                deciding = 1              negati : positi =     12.5 : 1.0
+    ('honestly', 'best') = 1              negati : positi =     12.5 : 1.0
+                  tomato = 1              negati : positi =     12.5 : 1.0
+                   flour = 1              negati : positi =     12.5 : 1.0
+               difficult = 1              negati : positi =     12.5 : 1.0
+  ('probably', 'better') = 1              negati : positi =     12.5 : 1.0
+         ('said', "n't") = 1              negati : positi =     12.5 : 1.0
+                   class = 1              negati : positi =     12.5 : 1.0
+         ("'m", 'sorry') = 1              negati : positi =     12.5 : 1.0
+                 product = 1              negati : positi =     12.5 : 1.0
+    ('good', 'probably') = 1              negati : positi =     12.5 : 1.0
+      ('pretty', 'high') = 1              negati : positi =     12.5 : 1.0
+                 slather = 1              negati : positi =     12.5 : 1.0
+     ('greasy', 'fries') = 1              negati : positi =     12.5 : 1.0
+              comparable = 1              negati : positi =     12.5 : 1.0
+                   so-so = 1              negati : positi =     12.5 : 1.0
+                  advise = 1              negati : positi =     12.5 : 1.0

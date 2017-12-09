@@ -1,0 +1,32 @@
+This directory contains files of the output from running the Naive Bayesian Classifier with associated list of review IDs for the business identified by the name.
+
+The classifier is trained with the first 2/3 of the data and tested with the last 1/3.  
+
+The results for businesses are generally much poorer than those achieved with the cities.  The classifier accuracy was below 50% in 9 of the 22 cases.   With the cities, we were able to consistently achieve greater than 70% accuracy during testing. We believe that this is due in large part to the much smaller training sets with the individual restaurants.  
+
+
+Pauls-MBP:businesses paulmccumber$ grep Accuracy *
+Angry_Crab_Shack.Mesa.results:Naive Bayesian Classifier Accuracy of 0.430
+Bobby_Q.Phoenix.results:Naive Bayesian Classifier Accuracy of 0.360
+Cherryblossom_Noodle_Cafe.Phoenix.results:Naive Bayesian Classifier Accuracy of 0.510
+Delux.Phoenix.results:Naive Bayesian Classifier Accuracy of 0.596
+Gallo_Blanco.Phoenix.results:Naive Bayesian Classifier Accuracy of 0.519
+Gangnam_LasVegas.results:Accuracy of 0.255
+Hopdoddy_Burger_Bar.Scottsdale.results:Naive Bayesian Classifier Accuracy of 0.655
+Jamms_Restaurant.LasVegas.results:Naive Bayesian Classifier Accuracy of 0.395
+Joyride_Taco_House.Phoenix.results:Naive Bayesian Classifier Accuracy of 0.622
+Khao_San_Road.Toronto.results:Naive Bayesian Classifier Accuracy of 0.566
+Little_Miss_BBQ.Phoenix.results:Naive Bayesian Classifier Accuracy of 0.167
+Lola.Cleveland.results:Naive Bayesian Classifier Accuracy of 0.371
+Mastros_City_Hall.Scottsdale.results:Naive Bayesian Classifier Accuracy of 0.550
+Olive_and_Ivy.Scottsdale.results:Naive Bayesian Classifier Accuracy of 0.431
+Pizza_Rock.LasVegas.results:Naive Bayesian Classifier Accuracy of 0.595
+Primanti.Bros.Pittsburgh.results:Naive Bayesian Classifier Accuracy of 0.628
+Roaring_Fork_Scottsdale.results:Naive Bayesian Classifier Accuracy of 0.473
+Seven_Lives_Tacos_Y_Mariscos.Toronto.results:Naive Bayesian Classifier Accuracy of 0.257
+TAO_Asian_Bistro.LasVegas.results:Naive Bayesian Classifier Accuracy of 0.752
+The_Mission_Old_Town.Scottsdale.results:Naive Bayesian Classifier Accuracy of 0.758
+The_Old_Fashioned.Madison.results:Naive Bayesian Classifier Accuracy of 0.563
+Triple_George_Grill.LasVegas.results:Naive Bayesian Classifier Accuracy of 0.546
+True_Food_Kitchen.Scottsdale.results:Naive Bayesian Classifier Accuracy of 0.632
+

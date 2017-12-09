@@ -1,0 +1,104 @@
+
+Naive Bayesian Classifier Accuracy of 0.655
+
+Most Informative Features
+                terrible = 1              negati : positi =     15.9 : 1.0
+           unfortunately = 1              negati : positi =     14.0 : 1.0
+                 mistake = 1              negati : positi =     12.2 : 1.0
+       ('take', 'order') = 1              negati : positi =     12.1 : 1.0
+               recommend = 1              positi : negati =     10.4 : 1.0
+                    flag = 1              negati : positi =     10.3 : 1.0
+       ('wish', 'could') = 1              negati : positi =     10.3 : 1.0
+                    hate = 1              negati : positi =     10.3 : 1.0
+         ('asked', 'us') = 1              negati : positi =     10.3 : 1.0
+                  figure = 1              negati : positi =     10.3 : 1.0
+                     kid = 1              negati : positi =     10.3 : 1.0
+      ('open', 'tables') = 1              negati : positi =     10.3 : 1.0
+         ("n't", 'even') = 1              negati : positi =     10.3 : 1.0
+                   staff = 2              negati : positi =     10.2 : 1.0
+           ('wo', "n't") = 1              negati : positi =      9.3 : 1.0
+                      wo = 1              negati : positi =      9.3 : 1.0
+     ('burgers', 'good') = 1              negati : positi =      9.2 : 1.0
+                    less = 1              negati : positi =      9.2 : 1.0
+                     n't = 4              negati : positi =      9.1 : 1.0
+                      40 = 1              negati : positi =      8.4 : 1.0
+                    slow = 1              negati : positi =      8.4 : 1.0
+                   awful = 1              negati : positi =      8.4 : 1.0
+       ('15', 'minutes') = 1              negati : positi =      8.4 : 1.0
+                  barely = 1              negati : positi =      8.4 : 1.0
+                    hype = 1              negati : positi =      8.4 : 1.0
+              challenged = 1              negati : positi =      8.4 : 1.0
+       ('fries', 'came') = 1              negati : positi =      8.4 : 1.0
+      ('think', 'would') = 1              negati : positi =      8.4 : 1.0
+                 manager = 2              negati : positi =      8.4 : 1.0
+        ('would', "n't") = 1              negati : positi =      8.4 : 1.0
+                 minutes = 2              negati : positi =      8.4 : 1.0
+                   table = 4              negati : positi =      8.3 : 1.0
+      ('best', 'burger') = 1              positi : negati =      8.0 : 1.0
+      ('burger', 'came') = 1              negati : positi =      7.3 : 1.0
+                   based = 1              negati : positi =      7.3 : 1.0
+       ('wait', 'staff') = 1              negati : positi =      7.3 : 1.0
+                    left = 1              negati : positi =      7.3 : 1.0
+              milkshakes = 1              positi : negati =      7.3 : 1.0
+                  waited = 1              negati : positi =      6.9 : 1.0
+              understand = 1              negati : positi =      6.8 : 1.0
+                  longer = 1              negati : positi =      6.8 : 1.0
+               mcdonalds = 1              negati : positi =      6.6 : 1.0
+                problems = 1              negati : positi =      6.6 : 1.0
+  ('order', 'something') = 1              negati : positi =      6.6 : 1.0
+       ('good', 'thing') = 1              negati : positi =      6.6 : 1.0
+       ('bring', 'back') = 1              negati : positi =      6.6 : 1.0
+       ('whole', 'time') = 1              negati : positi =      6.6 : 1.0
+                     tea = 1              negati : positi =      6.6 : 1.0
+                   watch = 1              negati : positi =      6.6 : 1.0
+                 changed = 1              negati : positi =      6.6 : 1.0
+     ('came', 'quickly') = 1              negati : positi =      6.6 : 1.0
+                    hang = 1              negati : positi =      6.6 : 1.0
+                happened = 1              negati : positi =      6.6 : 1.0
+                   gross = 1              negati : positi =      6.6 : 1.0
+                  rating = 1              negati : positi =      6.6 : 1.0
+                 popular = 1              negati : positi =      6.6 : 1.0
+         ("n't", 'need') = 1              negati : positi =      6.6 : 1.0
+                  forgot = 1              negati : positi =      6.6 : 1.0
+        ('went', 'back') = 1              negati : positi =      6.6 : 1.0
+       ('looks', 'like') = 1              negati : positi =      6.6 : 1.0
+                 station = 1              negati : positi =      6.6 : 1.0
+         ('us', 'great') = 1              negati : positi =      6.6 : 1.0
+         ("n't", 'seem') = 1              negati : positi =      6.6 : 1.0
+                  talked = 1              negati : positi =      6.6 : 1.0
+    ('around', 'corner') = 1              negati : positi =      6.6 : 1.0
+                 frankly = 1              negati : positi =      6.6 : 1.0
+      ('food', 'pretty') = 1              negati : positi =      6.6 : 1.0
+     ('burgers', 'came') = 1              negati : positi =      6.6 : 1.0
+                 forever = 1              negati : positi =      6.6 : 1.0
+                 serious = 1              negati : positi =      6.6 : 1.0
+   ('ordered', 'burger') = 1              negati : positi =      6.6 : 1.0
+                 anytime = 1              negati : positi =      6.6 : 1.0
+      ('taking', 'care') = 1              negati : positi =      6.6 : 1.0
+       ('would', 'like') = 1              negati : positi =      6.6 : 1.0
+               zinburger = 1              negati : positi =      6.5 : 1.0
+                    work = 2              negati : positi =      6.5 : 1.0
+                  actual = 1              negati : positi =      6.5 : 1.0
+      ('two', 'burgers') = 1              negati : positi =      6.5 : 1.0
+                    sent = 1              negati : positi =      6.5 : 1.0
+                      ok = 2              negati : positi =      6.5 : 1.0
+                  medium = 2              negati : positi =      6.5 : 1.0
+                    bill = 2              negati : positi =      6.5 : 1.0
+                      'm = 2              negati : positi =      6.5 : 1.0
+                  called = 2              negati : positi =      6.5 : 1.0
+                   asked = 2              negati : positi =      6.5 : 1.0
+                    time = 4              negati : positi =      6.5 : 1.0
+               perfectly = 1              positi : negati =      6.3 : 1.0
+                 walking = 1              negati : positi =      6.2 : 1.0
+      ('take', 'orders') = 1              negati : positi =      6.2 : 1.0
+          ("n't", 'bad') = 1              negati : positi =      6.2 : 1.0
+                    rush = 1              negati : positi =      6.2 : 1.0
+                   money = 1              negati : positi =      6.2 : 1.0
+                  hungry = 1              negati : positi =      6.2 : 1.0
+                  pretty = 2              negati : positi =      6.1 : 1.0
+                      us = 3              negati : positi =      6.1 : 1.0
+                 burgers = 3              negati : positi =      6.0 : 1.0
+           ("n't", 'go') = 1              negati : positi =      5.9 : 1.0
+                  review = 1              negati : positi =      5.9 : 1.0
+                      20 = 1              negati : positi =      5.4 : 1.0
+                 arrived = 1              negati : positi =      5.4 : 1.0

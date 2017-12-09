@@ -1,0 +1,19 @@
+This directory contains the review IDs that were fed to the Naive Bayesian Classifier.
+
+There are two directories:
+
+   o cities - contains the files representing the results from running the Naive Bayesian Classifier on
+              the associated input review files. 
+   o businesses - contains the files representing the results from running the Naive Bayesian Classifier on
+              the associated input review files. 
+
+all.results - This is the results from running the classifier on the entire 850,000 restaurant reviews in 
+              the yelp database.  The accuracy was 76% which is better than any of the cities.  
+
+businessFrequency.results - This is the number of reviews for each unique restaurant in the database.
+businesses.results - This is a breakdown of the number of businesses for each category in the database.
+cities.results - This shows the number of unique businesses in each city in the database.
+frequentBusinesses.ids - This is the same as businessFrequency.results only we kept only the most frequent.
+highlyReviewedRestaurants.results - This is a list of the most highly reviewed restaurants in the database
+    with the number of reviews, name, and city.
+

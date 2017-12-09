@@ -1,0 +1,104 @@
+
+Naive Bayesian Classifier Accuracy of 0.395
+
+Most Informative Features
+                 finally = 1              negati : positi =     23.0 : 1.0
+                   bland = 1              negati : positi =     23.0 : 1.0
+                   table = 2              negati : positi =     19.9 : 1.0
+                   chewy = 1              negati : positi =     16.9 : 1.0
+                 excited = 1              negati : positi =     16.9 : 1.0
+                 average = 1              negati : positi =     15.6 : 1.0
+                     due = 1              negati : positi =     13.8 : 1.0
+                 cashier = 1              negati : positi =     13.8 : 1.0
+                  middle = 1              negati : positi =     13.8 : 1.0
+      ('good', 'though') = 1              negati : positi =     13.8 : 1.0
+                 figured = 1              negati : positi =     13.8 : 1.0
+           unfortunately = 1              negati : positi =     13.8 : 1.0
+       ('menu', 'items') = 1              negati : positi =     13.8 : 1.0
+                  flavor = 2              negati : positi =     13.7 : 1.0
+                 country = 2              negati : positi =     13.7 : 1.0
+                   guess = 1              negati : positi =     11.9 : 1.0
+               returning = 1              negati : positi =     10.7 : 1.0
+                  doughy = 1              negati : positi =     10.7 : 1.0
+     ('food', 'nothing') = 1              negati : positi =     10.7 : 1.0
+                   likes = 1              negati : positi =     10.7 : 1.0
+      ('illy', 'coffee') = 1              negati : positi =     10.7 : 1.0
+                 watered = 1              negati : positi =     10.7 : 1.0
+                finished = 1              negati : positi =     10.7 : 1.0
+       ('best', 'vegas') = 1              negati : positi =     10.7 : 1.0
+                     tip = 1              negati : positi =     10.7 : 1.0
+      ('come', 'around') = 1              negati : positi =     10.7 : 1.0
+      ('seemed', 'like') = 1              negati : positi =     10.7 : 1.0
+          ('food', 'ok') = 1              negati : positi =     10.7 : 1.0
+      ('food', 'decent') = 1              negati : positi =     10.7 : 1.0
+    ('great', 'reviews') = 1              negati : positi =     10.7 : 1.0
+                    kept = 1              negati : positi =     10.7 : 1.0
+                    mins = 1              negati : positi =     10.7 : 1.0
+                   rated = 1              negati : positi =     10.7 : 1.0
+                terrible = 1              negati : positi =     10.7 : 1.0
+              overcooked = 1              negati : positi =     10.7 : 1.0
+      ('fried', 'steak') = 2              negati : positi =     10.7 : 1.0
+        ('could', "n't") = 1              negati : positi =     10.7 : 1.0
+                   fried = 2              negati : positi =     10.6 : 1.0
+                    much = 2              negati : positi =     10.6 : 1.0
+       ('20', 'minutes') = 1              negati : positi =     10.6 : 1.0
+                    menu = 3              negati : positi =     10.6 : 1.0
+                   would = 3              negati : positi =     10.6 : 1.0
+                    high = 1              negati : positi =     10.1 : 1.0
+                    mind = 1              negati : positi =     10.1 : 1.0
+                   water = 1              negati : positi =     10.1 : 1.0
+         ('food', "n't") = 1              negati : positi =     10.1 : 1.0
+           disappointing = 1              negati : positi =     10.1 : 1.0
+                    cold = 1              negati : positi =     10.1 : 1.0
+                     get = 2              negati : positi =      8.5 : 1.0
+                    came = 2              negati : positi =      8.5 : 1.0
+                      ok = 1              negati : positi =      8.4 : 1.0
+      ('tasted', 'like') = 1              negati : positi =      8.3 : 1.0
+                   looks = 1              negati : positi =      8.3 : 1.0
+                     ok. = 1              negati : positi =      8.3 : 1.0
+                  greasy = 1              negati : positi =      8.3 : 1.0
+          ("n't", 'bad') = 1              negati : positi =      8.3 : 1.0
+                     use = 1              negati : positi =      8.3 : 1.0
+                   ended = 1              negati : positi =      8.3 : 1.0
+                 exactly = 1              negati : positi =      8.3 : 1.0
+                    mess = 1              negati : positi =      8.3 : 1.0
+         ('denny', "'s") = 1              negati : positi =      8.2 : 1.0
+                   salty = 1              negati : positi =      8.2 : 1.0
+                   denny = 1              negati : positi =      8.2 : 1.0
+                     egg = 2              negati : positi =      8.2 : 1.0
+         ("n't", 'like') = 1              negati : positi =      8.2 : 1.0
+                      tv = 1              negati : positi =      7.7 : 1.0
+      ('loved', 'every') = 1              negati : positi =      7.7 : 1.0
+     ('service', 'nice') = 1              negati : positi =      7.7 : 1.0
+   ('ordered', 'omelet') = 1              negati : positi =      7.7 : 1.0
+                  stayed = 1              negati : positi =      7.7 : 1.0
+         ('way', 'much') = 1              negati : positi =      7.7 : 1.0
+   ('fried', 'potatoes') = 1              negati : positi =      7.7 : 1.0
+                 sounded = 1              negati : positi =      7.7 : 1.0
+         ('eggs', 'ham') = 1              negati : positi =      7.7 : 1.0
+                    sort = 1              negati : positi =      7.7 : 1.0
+                    city = 1              negati : positi =      7.7 : 1.0
+   ('went', 'breakfast') = 1              negati : positi =      7.7 : 1.0
+         ('like', 'pot') = 1              negati : positi =      7.7 : 1.0
+  ('chocolate', 'chips') = 1              negati : positi =      7.7 : 1.0
+       ('give', 'place') = 1              negati : positi =      7.7 : 1.0
+      ('star', 'rating') = 1              negati : positi =      7.7 : 1.0
+                 correct = 1              negati : positi =      7.7 : 1.0
+                     meh = 1              negati : positi =      7.7 : 1.0
+                   moved = 1              negati : positi =      7.7 : 1.0
+       ('could', 'even') = 1              negati : positi =      7.7 : 1.0
+                    chef = 1              negati : positi =      7.7 : 1.0
+                  joints = 1              negati : positi =      7.7 : 1.0
+                    sent = 1              negati : positi =      7.7 : 1.0
+                   wheat = 1              negati : positi =      7.7 : 1.0
+                    chew = 1              negati : positi =      7.7 : 1.0
+                    fell = 1              negati : positi =      7.7 : 1.0
+                continue = 1              negati : positi =      7.7 : 1.0
+                   spoon = 1              negati : positi =      7.7 : 1.0
+        ('waited', '30') = 1              negati : positi =      7.7 : 1.0
+           extraordinary = 1              negati : positi =      7.7 : 1.0
+     ('ordered', 'jamm') = 1              negati : positi =      7.7 : 1.0
+        ('last', 'time') = 1              negati : positi =      7.7 : 1.0
+                   gross = 1              negati : positi =      7.7 : 1.0
+      ('texas', 'toast') = 1              negati : positi =      7.7 : 1.0
+                  casual = 1              negati : positi =      7.7 : 1.0

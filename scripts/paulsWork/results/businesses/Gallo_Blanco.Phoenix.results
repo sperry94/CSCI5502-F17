@@ -1,0 +1,104 @@
+
+Naive Bayesian Classifier Accuracy of 0.519
+
+Most Informative Features
+                horrible = 1              negati : positi =     17.0 : 1.0
+              enchiladas = 1              negati : positi =     14.8 : 1.0
+                    hold = 1              negati : positi =     14.8 : 1.0
+                 service = 3              negati : positi =     14.7 : 1.0
+                    rude = 1              negati : positi =     12.9 : 1.0
+                  charge = 1              negati : positi =     12.5 : 1.0
+             experienced = 1              negati : positi =     12.5 : 1.0
+                    weak = 1              negati : positi =     12.5 : 1.0
+                     sad = 1              negati : positi =     12.5 : 1.0
+                     bad = 2              negati : positi =     12.5 : 1.0
+                    took = 2              negati : positi =     12.5 : 1.0
+       ('give', 'gallo') = 1              negati : positi =     10.2 : 1.0
+                    shot = 1              negati : positi =     10.2 : 1.0
+                    ends = 1              negati : positi =     10.2 : 1.0
+      ('really', 'like') = 1              negati : positi =     10.2 : 1.0
+  ('nothing', 'special') = 1              negati : positi =     10.2 : 1.0
+                   tough = 1              negati : positi =     10.2 : 1.0
+                    hype = 1              negati : positi =     10.2 : 1.0
+     ("n't", 'anything') = 1              negati : positi =     10.2 : 1.0
+               employees = 1              negati : positi =     10.2 : 1.0
+       ('brought', 'us') = 1              negati : positi =     10.2 : 1.0
+   ('somewhere', 'else') = 1              negati : positi =     10.2 : 1.0
+       ('20', 'minutes') = 1              negati : positi =     10.2 : 1.0
+                    past = 2              negati : positi =     10.2 : 1.0
+                    told = 2              negati : positi =     10.2 : 1.0
+                       4 = 2              negati : positi =     10.2 : 1.0
+                    take = 2              negati : positi =     10.2 : 1.0
+                  barely = 1              negati : positi =      8.9 : 1.0
+               customers = 1              negati : positi =      8.9 : 1.0
+                  others = 1              negati : positi =      8.9 : 1.0
+                   sadly = 1              negati : positi =      8.9 : 1.0
+                customer = 1              negati : positi =      8.4 : 1.0
+                   shame = 1              negati : positi =      8.0 : 1.0
+                 mistake = 1              negati : positi =      8.0 : 1.0
+                  hoping = 1              negati : positi =      8.0 : 1.0
+                  paying = 1              negati : positi =      8.0 : 1.0
+                  moving = 1              negati : positi =      8.0 : 1.0
+                   track = 1              negati : positi =      8.0 : 1.0
+                  nobody = 1              negati : positi =      8.0 : 1.0
+               beginning = 1              negati : positi =      8.0 : 1.0
+ ('horrible', 'service') = 1              negati : positi =      8.0 : 1.0
+                    card = 1              negati : positi =      8.0 : 1.0
+      ('food', 'little') = 1              negati : positi =      8.0 : 1.0
+                appeared = 1              negati : positi =      8.0 : 1.0
+       ('really', "n't") = 1              negati : positi =      8.0 : 1.0
+                     fat = 1              negati : positi =      8.0 : 1.0
+                    cash = 1              negati : positi =      8.0 : 1.0
+          ('place', '3') = 1              negati : positi =      8.0 : 1.0
+        ('half', 'hour') = 1              negati : positi =      8.0 : 1.0
+ ('restaurant', 'great') = 1              negati : positi =      8.0 : 1.0
+                 forever = 1              negati : positi =      8.0 : 1.0
+                   cover = 1              negati : positi =      8.0 : 1.0
+      ('drinks', 'good') = 1              negati : positi =      8.0 : 1.0
+                     7pm = 1              negati : positi =      8.0 : 1.0
+         ('also', "n't") = 1              negati : positi =      8.0 : 1.0
+                  failed = 1              negati : positi =      8.0 : 1.0
+        ('order', 'one') = 1              negati : positi =      8.0 : 1.0
+                  bother = 1              negati : positi =      8.0 : 1.0
+                planning = 1              negati : positi =      8.0 : 1.0
+                     btw = 1              negati : positi =      8.0 : 1.0
+                 friends = 2              negati : positi =      7.9 : 1.0
+                  walked = 2              negati : positi =      7.9 : 1.0
+       ('10', 'minutes') = 1              negati : positi =      7.9 : 1.0
+                    find = 2              negati : positi =      7.9 : 1.0
+                   asked = 2              negati : positi =      7.9 : 1.0
+                    came = 3              negati : positi =      7.9 : 1.0
+                 hostess = 2              negati : positi =      7.9 : 1.0
+                 checked = 1              negati : positi =      7.5 : 1.0
+                 changed = 1              negati : positi =      7.5 : 1.0
+                  giving = 1              negati : positi =      7.5 : 1.0
+                    like = 3              negati : positi =      7.4 : 1.0
+       ('15', 'minutes') = 1              negati : positi =      7.3 : 1.0
+ ('customer', 'service') = 1              negati : positi =      7.3 : 1.0
+                 lacking = 1              negati : positi =      7.3 : 1.0
+                 problem = 1              negati : positi =      7.3 : 1.0
+                   leave = 1              negati : positi =      7.2 : 1.0
+                      15 = 1              negati : positi =      7.2 : 1.0
+                   bland = 1              negati : positi =      7.1 : 1.0
+                   elote = 1              positi : negati =      6.6 : 1.0
+                 opinion = 1              negati : positi =      6.3 : 1.0
+               somewhere = 1              negati : positi =      6.3 : 1.0
+                   owner = 1              negati : positi =      6.3 : 1.0
+               elsewhere = 1              negati : positi =      6.1 : 1.0
+                    tips = 1              negati : positi =      6.1 : 1.0
+                  chairs = 1              negati : positi =      6.1 : 1.0
+                  longer = 1              negati : positi =      6.1 : 1.0
+         ("n't", 'want') = 1              negati : positi =      6.1 : 1.0
+    ('minutes', 'later') = 1              negati : positi =      6.1 : 1.0
+                  passed = 1              negati : positi =      6.1 : 1.0
+                 dollars = 1              negati : positi =      6.1 : 1.0
+                 figured = 1              negati : positi =      6.1 : 1.0
+                   works = 1              negati : positi =      6.1 : 1.0
+              ridiculous = 1              negati : positi =      6.1 : 1.0
+                   clear = 1              negati : positi =      6.1 : 1.0
+              bartenders = 1              negati : positi =      6.1 : 1.0
+                     min = 1              negati : positi =      6.1 : 1.0
+('ordered', 'guacamole') = 1              negati : positi =      6.1 : 1.0
+                  number = 1              negati : positi =      6.1 : 1.0
+                  waited = 2              negati : positi =      6.1 : 1.0
+                      10 = 2              negati : positi =      6.1 : 1.0

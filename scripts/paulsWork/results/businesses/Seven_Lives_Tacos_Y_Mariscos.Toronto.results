@@ -1,0 +1,104 @@
+
+Naive Bayesian Classifier Accuracy of 0.257
+
+Most Informative Features
+                   bland = 1              negati : positi =     22.5 : 1.0
+   ('people', 'waiting') = 1              negati : positi =     17.5 : 1.0
+        ('5', 'minutes') = 1              negati : positi =     17.5 : 1.0
+                    fact = 1              negati : positi =     17.5 : 1.0
+                 alright = 1              negati : positi =     17.5 : 1.0
+        ('many', 'taco') = 1              negati : positi =     12.5 : 1.0
+   ('extremely', 'busy') = 1              negati : positi =     12.5 : 1.0
+                   major = 1              negati : positi =     12.5 : 1.0
+      ('good', 'better') = 1              negati : positi =     12.5 : 1.0
+                      25 = 1              negati : positi =     12.5 : 1.0
+                   chili = 1              negati : positi =     12.5 : 1.0
+       ('taste', 'good') = 1              negati : positi =     12.5 : 1.0
+         ("n't", 'find') = 1              negati : positi =     12.5 : 1.0
+         ('place', "'m") = 1              negati : positi =     12.5 : 1.0
+                   flour = 1              negati : positi =     12.5 : 1.0
+    ('carnita', 'grand') = 1              negati : positi =     12.5 : 1.0
+                     rub = 1              negati : positi =     12.5 : 1.0
+('gobernador', 'octopus') = 1              negati : positi =     12.5 : 1.0
+                bathroom = 1              negati : positi =     12.5 : 1.0
+                    mood = 1              negati : positi =     12.5 : 1.0
+                 cheaper = 1              negati : positi =     12.5 : 1.0
+               memorable = 1              negati : positi =     12.5 : 1.0
+('authentic', 'mexican') = 1              negati : positi =     12.5 : 1.0
+                 rubbery = 1              negati : positi =     12.5 : 1.0
+                    zing = 1              negati : positi =     12.5 : 1.0
+         ("'s", 'super') = 1              negati : positi =     12.5 : 1.0
+               mushrooms = 1              negati : positi =     12.5 : 1.0
+                chipotle = 1              negati : positi =     12.5 : 1.0
+                   usual = 1              negati : positi =     12.5 : 1.0
+        ('heard', 'lot') = 1              negati : positi =     12.5 : 1.0
+       ('time', 'order') = 1              negati : positi =     12.5 : 1.0
+                  avenue = 1              negati : positi =     12.5 : 1.0
+                  happen = 1              negati : positi =     12.5 : 1.0
+         ('fish', "'ve") = 1              negati : positi =     12.5 : 1.0
+                     fat = 1              negati : positi =     12.5 : 1.0
+          ('food', "'s") = 1              negati : positi =     12.5 : 1.0
+         ("n't", 'feel') = 1              negati : positi =     12.5 : 1.0
+               deserving = 1              negati : positi =     12.5 : 1.0
+       ('soft', 'shell') = 1              negati : positi =     12.5 : 1.0
+   ('good', 'expecting') = 1              negati : positi =     12.5 : 1.0
+                 haddock = 1              negati : positi =     12.4 : 1.0
+   ('grand', 'electric') = 2              negati : positi =     12.4 : 1.0
+                   grand = 2              negati : positi =     12.4 : 1.0
+                  sunday = 2              negati : positi =     12.4 : 1.0
+                    tiny = 2              negati : positi =     12.4 : 1.0
+                   gallo = 1              negati : positi =     12.4 : 1.0
+         ("'n", 'chips') = 1              negati : positi =     12.4 : 1.0
+                electric = 2              negati : positi =     12.4 : 1.0
+          ('poke', "'n") = 1              negati : positi =     12.4 : 1.0
+                    poor = 1              negati : positi =     12.4 : 1.0
+                      'n = 1              negati : positi =     12.4 : 1.0
+                    pico = 1              negati : positi =     12.4 : 1.0
+                  cactus = 2              negati : positi =     12.3 : 1.0
+                    good = 4              negati : positi =     12.2 : 1.0
+                     raw = 1              negati : positi =     10.5 : 1.0
+                   cause = 1              negati : positi =     10.5 : 1.0
+                    onto = 1              negati : positi =     10.5 : 1.0
+                 reviews = 2              negati : positi =     10.4 : 1.0
+                 mexican = 2              negati : positi =     10.3 : 1.0
+        ("n't", 'think') = 1              negati : positi =      9.7 : 1.0
+                    girl = 1              negati : positi =      9.2 : 1.0
+                     saw = 1              negati : positi =      9.1 : 1.0
+                    past = 1              negati : positi =      8.9 : 1.0
+                     n't = 3              negati : positi =      8.5 : 1.0
+                    hype = 1              negati : positi =      8.1 : 1.0
+     ('stuff', 'inside') = 1              negati : positi =      7.5 : 1.0
+      ('thing', 'seven') = 1              negati : positi =      7.5 : 1.0
+        ('place', 'eat') = 1              negati : positi =      7.5 : 1.0
+      ('214', 'augusta') = 1              negati : positi =      7.5 : 1.0
+         ("'s", 'great') = 1              negati : positi =      7.5 : 1.0
+      ('fresh', 'juicy') = 1              negati : positi =      7.5 : 1.0
+      ('accept', 'cash') = 1              negati : positi =      7.5 : 1.0
+           approximately = 1              negati : positi =      7.5 : 1.0
+                   month = 1              negati : positi =      7.5 : 1.0
+   ('gobernador', "n't") = 1              negati : positi =      7.5 : 1.0
+                inspired = 1              negati : positi =      7.5 : 1.0
+              pedestrian = 1              negati : positi =      7.5 : 1.0
+       ('reason', "n't") = 1              negati : positi =      7.5 : 1.0
+        ('top', 'added') = 1              negati : positi =      7.5 : 1.0
+                rotating = 1              negati : positi =      7.5 : 1.0
+           ('15', 'min') = 1              negati : positi =      7.5 : 1.0
+      ('octopus', "n't") = 1              negati : positi =      7.5 : 1.0
+     ('door', 'seating') = 1              negati : positi =      7.5 : 1.0
+        ('long', 'time') = 1              negati : positi =      7.5 : 1.0
+         ('min', 'wait') = 1              negati : positi =      7.5 : 1.0
+                  bottle = 1              negati : positi =      7.5 : 1.0
+   ('taco', 'blackened') = 1              negati : positi =      7.5 : 1.0
+                 luckily = 1              negati : positi =      7.5 : 1.0
+     ('flavours', "n't") = 1              negati : positi =      7.5 : 1.0
+                 fixings = 1              negati : positi =      7.5 : 1.0
+   ('gobernator', 'dry') = 1              negati : positi =      7.5 : 1.0
+             comfortable = 1              negati : positi =      7.5 : 1.0
+        ('salsa', 'put') = 1              negati : positi =      7.5 : 1.0
+                entirely = 1              negati : positi =      7.5 : 1.0
+      ('taco', 'plenty') = 1              negati : positi =      7.5 : 1.0
+                question = 1              negati : positi =      7.5 : 1.0
+      ('sauce', 'think') = 1              negati : positi =      7.5 : 1.0
+ ('chips', 'gobernator') = 1              negati : positi =      7.5 : 1.0
+      ('tasted', 'like') = 1              negati : positi =      7.5 : 1.0
+      ('quite', 'quick') = 1              negati : positi =      7.5 : 1.0

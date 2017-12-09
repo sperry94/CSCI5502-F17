@@ -1,0 +1,10 @@
+This directory contains the review IDs that were fed to the Naive Bayesian Classifier.
+
+all.reviews - is the list of all restaurant reviews in the database.
+
+There are two directories:
+
+   o cities - contains the files representing the review IDs of the restaurants for the 
+              city identified by the filename.
+   o businesses - contains the files representing the review IDs for the given restaurant
+              identified by the filename.

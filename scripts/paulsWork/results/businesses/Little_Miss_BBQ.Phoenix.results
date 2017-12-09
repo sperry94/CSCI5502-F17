@@ -1,0 +1,104 @@
+
+Naive Bayesian Classifier Accuracy of 0.167
+
+Most Informative Features
+                  listed = 1              negati : positi =     32.9 : 1.0
+                   flies = 1              negati : positi =     32.9 : 1.0
+         ('way', 'much') = 1              negati : positi =     32.9 : 1.0
+       ('miles', 'away') = 1              negati : positi =     32.9 : 1.0
+       ('hype', 'place') = 1              negati : positi =     32.9 : 1.0
+                 station = 1              negati : positi =     32.9 : 1.0
+        ('going', 'get') = 1              negati : positi =     32.9 : 1.0
+         ('lot', 'hype') = 1              negati : positi =     32.9 : 1.0
+                 suicide = 1              negati : positi =     32.9 : 1.0
+          ('eat', 'get') = 1              negati : positi =     32.9 : 1.0
+       ('brisket', 'ok') = 1              negati : positi =     32.9 : 1.0
+       ('worth', 'time') = 1              negati : positi =     32.9 : 1.0
+                superior = 1              negati : positi =     32.9 : 1.0
+         ('wait', 'got') = 1              negati : positi =     32.9 : 1.0
+                   clear = 1              negati : positi =     32.9 : 1.0
+        ("n't", 'waste') = 1              negati : positi =     32.9 : 1.0
+    ('like', 'everyone') = 1              negati : positi =     32.9 : 1.0
+       ('grits', 'okay') = 1              negati : positi =     32.9 : 1.0
+        ('bbq', 'house') = 1              negati : positi =     32.6 : 1.0
+                   hubby = 2              negati : positi =     32.2 : 1.0
+                barbecue = 3              negati : positi =     30.7 : 1.0
+                 shocked = 1              negati : positi =     27.7 : 1.0
+      ('good', 'amount') = 1              negati : positi =     27.7 : 1.0
+                    rubs = 1              negati : positi =     27.7 : 1.0
+                  paying = 1              negati : positi =     25.4 : 1.0
+       ('inside', 'get') = 1              negati : positi =     19.8 : 1.0
+      ('worth', 'price') = 1              negati : positi =     19.8 : 1.0
+                feedback = 1              negati : positi =     19.8 : 1.0
+      ('tried', 'pecan') = 1              negati : positi =     19.8 : 1.0
+        ('ice', 'cream') = 1              negati : positi =     19.8 : 1.0
+       ('last', 'month') = 1              negati : positi =     19.8 : 1.0
+                 in-laws = 1              negati : positi =     19.8 : 1.0
+       ('taste', 'much') = 1              negati : positi =     19.8 : 1.0
+       ('stars', 'yelp') = 1              negati : positi =     19.8 : 1.0
+   ('giving', 'samples') = 1              negati : positi =     19.8 : 1.0
+     ('great', 'smoked') = 1              negati : positi =     19.8 : 1.0
+                   menus = 1              negati : positi =     19.8 : 1.0
+('outstanding', 'reviews') = 1              negati : positi =     19.8 : 1.0
+      ('pretty', 'long') = 1              negati : positi =     19.8 : 1.0
+      ('went', 'friday') = 1              negati : positi =     19.8 : 1.0
+   ('people', 'already') = 1              negati : positi =     19.8 : 1.0
+                 playing = 1              negati : positi =     19.8 : 1.0
+   ('brisket', 'people') = 1              negati : positi =     19.8 : 1.0
+       ('high', 'meats') = 1              negati : positi =     19.8 : 1.0
+   ('ribs', 'expensive') = 1              negati : positi =     19.8 : 1.0
+                      de = 1              negati : positi =     19.8 : 1.0
+       ('must', 'admit') = 1              negati : positi =     19.8 : 1.0
+          ('way', 'get') = 1              negati : positi =     19.8 : 1.0
+       ('baby', 'backs') = 1              negati : positi =     19.8 : 1.0
+                 listing = 1              negati : positi =     19.8 : 1.0
+                attitude = 1              negati : positi =     19.8 : 1.0
+         ('bbq', 'back') = 1              negati : positi =     19.8 : 1.0
+       ('idea', 'place') = 1              negati : positi =     19.8 : 1.0
+                  stayed = 1              negati : positi =     19.8 : 1.0
+       ('chatted', 'us') = 1              negati : positi =     19.8 : 1.0
+        ('order', 'way') = 1              negati : positi =     19.8 : 1.0
+          ('made', 'us') = 1              negati : positi =     19.8 : 1.0
+        ('meats', 'ate') = 1              negati : positi =     19.8 : 1.0
+                    12pm = 1              negati : positi =     19.8 : 1.0
+           ('az', 'got') = 1              negati : positi =     19.8 : 1.0
+    ('service', 'staff') = 1              negati : positi =     19.8 : 1.0
+        ('line', 'guys') = 1              negati : positi =     19.8 : 1.0
+     ('waited', 'could') = 1              negati : positi =     19.8 : 1.0
+                  saving = 1              negati : positi =     19.8 : 1.0
+        ('around', '12') = 1              negati : positi =     19.8 : 1.0
+       ('make', 'place') = 1              negati : positi =     19.8 : 1.0
+  ('bbq', 'connoisseur') = 1              negati : positi =     19.8 : 1.0
+                     tbh = 1              negati : positi =     19.8 : 1.0
+            enthusiastic = 1              negati : positi =     19.8 : 1.0
+          ('hot', 'day') = 1              negati : positi =     19.8 : 1.0
+    ('joint', 'located') = 1              negati : positi =     19.8 : 1.0
+     ('like', 'brisket') = 1              negati : positi =     19.8 : 1.0
+        ('wait', 'nice') = 1              negati : positi =     19.8 : 1.0
+        ('rib', 'combo') = 1              negati : positi =     19.8 : 1.0
+      ('tender', 'pork') = 1              negati : positi =     19.8 : 1.0
+                  knives = 1              negati : positi =     19.8 : 1.0
+                  fridge = 1              negati : positi =     19.8 : 1.0
+                  rushed = 1              negati : positi =     19.8 : 1.0
+         ("n't", 'help') = 1              negati : positi =     19.8 : 1.0
+      ('like', 'things') = 1              negati : positi =     19.8 : 1.0
+       ('place', 'less') = 1              negati : positi =     19.8 : 1.0
+                    held = 1              negati : positi =     19.8 : 1.0
+      ('rubs', 'sauces') = 1              negati : positi =     19.8 : 1.0
+      ('brisket', 'dry') = 1              negati : positi =     19.8 : 1.0
+      ('even', 'bother') = 1              negati : positi =     19.8 : 1.0
+           ('know', '5') = 1              negati : positi =     19.8 : 1.0
+                  timing = 1              negati : positi =     19.8 : 1.0
+       ('decent', 'bbq') = 1              negati : positi =     19.8 : 1.0
+        ('great', "n't") = 1              negati : positi =     19.8 : 1.0
+                   awful = 1              negati : positi =     19.8 : 1.0
+         ('come', 'eat') = 1              negati : positi =     19.8 : 1.0
+      ('would', 'tried') = 1              negati : positi =     19.8 : 1.0
+                  excess = 1              negati : positi =     19.8 : 1.0
+               situation = 1              negati : positi =     19.8 : 1.0
+       ('line', 'going') = 1              negati : positi =     19.8 : 1.0
+       ('speak', 'good') = 1              negati : positi =     19.8 : 1.0
+  ('everything', 'left') = 1              negati : positi =     19.8 : 1.0
+      ('matter', 'time') = 1              negati : positi =     19.8 : 1.0
+      ('knew', 'expect') = 1              negati : positi =     19.8 : 1.0
+      ('due', 'running') = 1              negati : positi =     19.8 : 1.0
